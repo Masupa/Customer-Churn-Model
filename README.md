@@ -1,3 +1,10 @@
+# Personal Project - Machine Learning
+-------------
+
+## Customer Churn
+-------------
+
+
 ### Project Context
 
 
